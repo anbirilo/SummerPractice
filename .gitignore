@@ -1,0 +1,8 @@
+*.user
+*.o
+*.obj
+Makefile
+build*/
+.qtcreator/
+Thumbs.db
+.qmake.stash
